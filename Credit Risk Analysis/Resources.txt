@@ -1,0 +1,5 @@
+Hyperparameter tuning:
+- https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+- https://towardsdatascience.com/binary-classification-xgboost-hyperparameter-tuning-scenarios-by-non-exhaustive-grid-search-and-c261f4ce098d
+- https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+- https://medium.com/chinmaygaikwad/hyperparameter-tuning-for-tree-models-f99a66446742
